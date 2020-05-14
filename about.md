@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Lauren and I am currently getting a Master's Degree in Statistics from NCSU. I have a 3.5 year old dog named Ellie and currently reside in North Carolina. My hobbies include checking out new breweries, puzzles of all kinds, books and being outdoors. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lcbruyni@ncsu.edu](mailto:lcbruyni@ncsu.edu)
