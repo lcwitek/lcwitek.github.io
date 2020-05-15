@@ -9,7 +9,7 @@ My name is Lauren and I am currently getting a Master's Degree in Statistics fro
 
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/lcwitek/lcwitek.github.io/master/images/Ellie3.jpg
+[logo]: https://raw.githubusercontent.com/lcwitek/lcwitek.github.io/master/images/Ellie4.jpg
 
 
 ### Contact me
