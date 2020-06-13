@@ -13,7 +13,7 @@ Check out my Vignette Here:
 #Reflections
 
 ## What would you do differently?
-  I think I would change out what variables I looked at for each of the plots. I also am not sure I would take the time to rename absolutely ever variable. I realized after I went through and changed them all that I wouldn't even be using all of them and that it was a mild waste of time. 
+  I think I would change out what variables I looked at for each of the plots. I also am not sure I would take the time to rename absolutely ever variable. I realized after I went through and changed them all that I wouldn't even be using all of them and that it was a mild waste of time. I also would have made a check list of what needed to be done. I felt like I kept having to re-read the project outline to make sure I wasn't missing anything. Have a check list or just bullet points of things needing completed would have been helpful. 
   
 ## What was the most difficult part for you?
   I struggled remembering all of the settings for `ggplot2` and the individual geoms. Luckily I had the cheat sheet handy and that helped. Going along with that I struggled for awhile trying to get my bar graph to graph exactly what I wanted it to graph. I finally realized that I had a two columns of variables that needed to be gathered together for it to work correctly. 
