@@ -1,0 +1,27 @@
+---
+layout: post
+title: Project 1 - Thoughts and Findings
+---
+
+# Outline of Project
+
+For my vignette I compared the Overall Total Percentage of Wins and Loses by Division and Conference for teams in the National Hockey League(NHL). It was surprising to see how even the percentage of wins and loses were when grouped together by division and conference. They were also fairly even when looking at indiviual teams vs one another. The Eastern Conference, specifically the Metropolitan Division had the high average for percent of wins. Lastly, I compared the percent of wins for the Regular season vs the percent of wins during the Playoffs and did not see a linear replationship.
+
+Check out my Vignette Here:
+  [Lauren Witek - Project 1](lcwitek/Project1.github.io)
+
+#Reflections
+
+## What would you do differently?
+  I think I would change out what variables I looked at for each of the plots. I also am not sure I would take the time to rename absolutely ever variable. I realized after I went through and changed them all that I wouldn't even be using all of them and that it was a mild waste of time. 
+  
+## What was the most difficult part for you?
+  I struggled remembering all of the settings for `ggplot2` and the individual geoms. Luckily I had the cheat sheet handy and that helped. Going along with that I struggled for awhile trying to get my bar graph to graph exactly what I wanted it to graph. I finally realized that I had a two columns of variables that needed to be gathered together for it to work correctly. 
+  
+## What are your big take-aways from this project?
+  One of the biggest take-aways is that writing these documents was enjoyable. I enjoy learning and working on my coding skills within R. It was also really interesting to submit everything to RStudio onto GitHub. It's a nice central place to share information and upload projects. I could also see how it would be very helpful to use as a group and work on a project together. 
+  
+
+
+
+
